@@ -27,6 +27,6 @@
 - [OSINT Framework](https://osintframework.com)
 
 ## Contact
-Twitter: @[YourHandle]  
+Twitter: @https://x.com/Nyamu_Ed  
 #90DaysOfOPSEC# 90-Days-OpSec
 90-Days operational security mastery. Advanced  Privacy Infrastructure 
