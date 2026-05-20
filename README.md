@@ -3,7 +3,7 @@ cat << 'EOF' > README.md
 # 90 Days of Advanced OPSEC Mastery
 
 **Advanced Operational Security & Privacy Infrastructure Sabbatical** - **Start Date:** May 19, 2026  
-- **Current Status:** 🔴 Day 1/90 Complete  
+- **Current Status:** 🔴 Day 2/90 Complete  
 - **Daily Window:** 20:00 - 23:00 EAT  
 
 ---
@@ -27,7 +27,7 @@ cat << 'EOF' > README.md
 - [x] Public accountability broadcast sent to Twitter/X.
 - [x] Day 2 markdown environment placeholder initialized.
 
-#### 🔲 Day 2: Linux Fundamentals Retouch & Privilege Hardening (Tomorrow)
+#### 🟩 Day 2: Linux Fundamentals Retouch & Privilege Hardening (Tomorrow)
 - [ ] Task 1: Execute deep file layout discovery (`find`) and disk usage analysis (`du`/`df`).
 - [ ] Task 2: Implement absolute sandbox file permission constraints via octal notation (`chmod 600/755`).
 - [ ] Task 3: Establish SSH tunnel attachment and complete Levels 0–10 of the OverTheWire: Bandit wargame.
